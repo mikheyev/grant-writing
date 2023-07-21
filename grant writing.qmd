@@ -1,0 +1,177 @@
+---
+title: "Writing grants for fun and profit"
+author: "Sasha Mikheyev"
+date: 21 July 2023
+date-format: long
+format: 
+  revealjs:
+    theme: [simple, ../resources/custom.scss]
+    preview-links: auto
+    slide-number: c/t
+    show-slide-number: speaker
+    incremental: false
+execute:
+  echo: false
+editor:
+  render-on-save: true
+self-contained: false
+from: markdown+emoji
+---
+
+# About me
+![](Sasha.png){width=30% fig-align="center"}
+
+- Evolutionary biologist
+  - Work with venoms and the evolution of diseases (in honey bees)
+
+# About yourself
+::: {.absolute top="-10%" right="2%" width="25%"}
+![](./qr/written%20grant.png)
+:::
+<!-- Note: add padding-top, z-index -->
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 10%; z-index: -1'><iframe src='https://www.mentimeter.com/app/presentation/alvfua8j18mn2pjbgwvgtegzz98wp5xg/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' ></iframe></div>
+
+# Outline
+- Foolproof Grant Template
+- Individual exercises
+  - Exercise 1: review a grant proposal on community health
+  - Exercise 2: review a grant proposal on coffee drinking 
+- Breakout group: Making a pitch
+- Summary
+
+## Next session
+  - Prepare a short grant proposal on the topic of your study
+  - Peer review
+  - We go through a selection of the proposals in the next session
+
+# Why write grants?
+![](Begging.jpeg)
+
+## In addition to money
+- Excellent opportunity to focus your thoughts
+- Explore new ideas, and read new literature
+- You can get feedback on your ideas
+- You can get meet new collaborators
+- Experience
+- Getting grants builds reputation
+
+## {#professor data-menu-title="The Professor Is In"}
+
+![](The_Professor_Is_In.jpeg){width=80% fig-align="center"}
+
+:::{.r-stack}
+[https://theprofessorisin.com/](https://theprofessorisin.com/){align="center"}
+:::
+
+# Foolproof Grant Template
+
+![](research-proposal-flowchart.jpg){fig-align="center"}
+
+## {#template-top data-menu-title="Grant template top"}
+
+![](grant%20template%20top.png){fig-align="center"}
+
+::: notes
+- Give the reviewer's perspective
+- Immigration, sustainable energy, changes in the family, curing cancer, new social technologies, environmental degradation, global warming, etc. Until you can identify a really broadly interesting theme that your project relates to, you will never be successful in applying for grants.
+- You just need to find the way in to your topic that starts at its widest possible relevance or interest, as appropriate for your field.  Don’t start at your topical micro-niche, even when you know you’re writing for others in or near that niche.  You always must show a wider import/context to your topic.
+- This is because your application must *excite* the readers, and the readers are likely from a range of different disciplines.  They will not all be interested in your discipline’s narrow debates.  They want to know that your work and your intellectual and scholarly vision are wide, and broad, and encompassing.
+- Once you have established your wide, much debated, topic, you then identify two bodies of literature relevant to your own training that dealt with this topic.
+  - No more than three sentences
+- The Kicker is your “HOWEVER” sentence.  The “however” sentence is the crux and the anchor of your entire proposal.
+  - "However, none of these works have addressed the central question of XXXXXXXX"
+:::
+
+## {#template-bottom data-menu-title="Grant template bottom"} 
+
+![](grant%20template%20bottom.png){fig-align="center"}
+
+::: notes
+- This stuff is key for specialist reviewers and where you will get most of your comments.
+- After pages of details, make sure you remind the reader in the end about the importance 
+:::
+
+
+## Sample grant: community health
+::: {.r-fit-text}
+I am writing to you because we need money to help our community. We are a small group, called Healthy Community, and we do a lot of good things. Our town has many health problems and we want to fix them. We think we need about $50,000 for our project.
+
+Our project is to make everyone in our town healthier. We want to do many things like start a fitness club, provide free health check-ups, and teach people about healthy food. We believe that if people are healthier, they will be happier and more productive.
+
+We plan to start the fitness club in a local park. We will invite everyone to join and do exercises like jogging, yoga, and aerobics. We hope that people will enjoy the fitness club and become more active.
+
+We will also provide free health check-ups. We will invite doctors from the local hospital to check people's health and give advice. We hope that this will help people to detect and treat health problems early.
+
+We will teach people about healthy food. We will organize cooking classes and nutrition workshops. We hope that people will learn to eat healthier and prevent diseases like diabetes and heart disease.
+
+We believe that our project will make a big difference in our town. We hope that you will support us. Thank you for considering our proposal.
+:::
+
+## Short responses, please
+::: {.absolute top="-10%" right="2%" width="25%"}
+![](./qr/community%20health.png)
+:::
+<!-- Note: add padding-top, z-index -->
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 10%; z-index: -1'><iframe src='https://www.mentimeter.com/app/presentation/almv79ez861x22idi2kiuh8w6p5r39eo/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' ></iframe></div>
+
+::: notes
+- **Lack of Specificity:** The proposal does not provide specific details about the project. 
+- **No Clear Budget:** How will the money be spent?
+- **No Evaluation Plan:** How will we evaluate success?
+- **No Sustainability Plan:** How will the project continue after the grant money runs out?
+- **Poor Writing:** Tone and style are not appropriate for a grant proposal.
+:::
+
+## 
+::: {.r-fit-text}
+We propose to investigate the effects of coffee drinking on human health. We intend to conduct a comprehensive research study that aims to establish whether coffee consumption can lead to significant health benefits or risks. We request a grant of $100,000 to fund our research.
+
+Our research project will involve a sample of 1,000 adults, aged 20-60 years, from our local community. We will categorise these participants into two groups based on their coffee consumption habits: heavy coffee drinkers (more than 3 cups per day) and non-coffee drinkers. We will collect data through surveys and health check-ups over a one-year period.
+
+We hypothesise that heavy coffee drinkers will show different health outcomes compared to non-coffee drinkers. We will monitor common health indicators such as blood pressure, cholesterol levels, body mass index (BMI), and self-reported levels of stress and fatigue.
+
+The findings from our research will contribute to the scientific understanding of the health effects of coffee and will be of interest to health professionals and the general public. We also believe that our research could have significant implications for dietary guidelines and public health strategies.
+:::
+
+## Short responses, please
+::: {.absolute top="-10%" right="2%" width="25%"}
+![](./qr/coffee.png)
+:::
+<!-- Note: add padding-top, z-index -->
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 10%; z-index: -1'><iframe src='https://www.mentimeter.com/app/presentation/alxv8fg8ko8yp2bi74jdxst5nbzkz7bg/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' ></iframe></div>
+
+::: notes
+- **Lack of Specificity:** What is the methodology?
+- **No Control Group** 
+- **No Consideration of Confounding Factors:** Factors such as diet, exercise, smoking, and alcohol consumption could all influence the health indicators being studied and could confound the results.
+- **Assumption of Causality:** Need a randomised trial for that
+:::
+
+## Breakout group exercise: Making a pitch (30 minutes)
+
+As you saw, it is key to capture the audience's attention. The way to do it is to link your work to a big picture. We will practice doing this.
+
+- Form groups of 3 people
+- Every person spends 10 minutes preparing a three-minute pitch
+- Give the pitch, and get feedback
+- Rotate roles
+
+# Pitch summary
+::: {.absolute top="-10%" right="2%" width="25%"}
+![](./qr/pitch.png)
+:::
+<!-- Note: add padding-top, z-index -->
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 10%; z-index: -1'><iframe src='https://www.mentimeter.com/app/presentation/alrzgoqxjnwombaq5eaq4sm4niyj4nub/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' ></iframe></div>
+
+# Summary
+- Grant writing is follows a formula
+- The "Big Picture" is key
+- You should be able to get a reader interested early
+- There are lots of benefits to writing (and getting) grants aside from :moneybag:
+
+# Next session{.nonincremental}
+- Write a 500-word grant proposal on the topic of your study
+- Get feedback from your group
+- Each group sends me a grant for critique next workshop
+  - Does not have to be the best grant, pick something we can learn from
+- We go through a selection of the proposals in the next session and discuss them
